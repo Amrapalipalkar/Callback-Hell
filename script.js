@@ -20,7 +20,7 @@ setTimeout( () => {
                                 setTimeout( () => {
                                     countdown.textContent = '1';
                                     setTimeout( () => {
-                                        countdown.textContent = 'Happy Independence Day!!'
+                                        countdown.textContent = 'Have A Beautiful Day!!'
                                     },1000)
                                 },1000)
                             },1000)
